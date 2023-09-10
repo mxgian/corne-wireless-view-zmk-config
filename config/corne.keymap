@@ -65,7 +65,7 @@
                         bindings = <
    &kp  TAB  &kp EXCL &kp UP &kp HASH &kp DLLR &kp PRCNT   &kp CARET &kp AMPS  &kp KP_MULTIPLY &kp LPAR &kp RPAR &kp BSPC
    &kp LCTRL &kp LEFT  &kp DOWN &kp RIGHT   &trans   &trans      &kp LEFT &kp DOWN &kp UP &kp RIGHT &kp BSLH &kp GRAVE
-   &kp LSHFT &trans   &trans &trans   &bt BT_CLR   &bt BT_NEXT      &bootloader &kp PLUS  &kp LBRC        &kp RBRC &kp PIPE &kp TILDE
+   &kp LSHFT &trans   &trans &trans   &bt BT_CLR   &bt BT_NXT      &bootloader &kp PLUS  &kp LBRC        &kp RBRC &kp PIPE &kp TILDE
                     	     &kp LGUI &trans   &kp SPACE   &kp RET   &trans    &kp RALT
                         >;
                 };
